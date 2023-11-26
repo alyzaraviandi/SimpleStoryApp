@@ -23,8 +23,6 @@ This is an Android app that allows users to view and create stories. Users can l
 
 ## Installation
 
-You can provide instructions on how to install and run your app here. For example:
-
 - Clone this repository and import into Android Studio
 - Build and run the app on an emulator or a real device
 - Enjoy the app!
