@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="floating_button">floating_button</string>
+    <string name="map">Map</string>
+    <string name="logout">Logout</string>
+    <string name="please_provide_description_and_select_an_image">Please provide description and select an image.</string>
+    <string name="story_added_successfully">Story added successfully.</string>
+    <string name="failed_to_add_story">Failed to add story.</string>
+</resources>
