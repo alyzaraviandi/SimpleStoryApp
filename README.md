@@ -1,6 +1,6 @@
 # Story App
 
-This is an Android app that allows users to view and create stories. Users can login or register, browse stories from other users, and upload their own stories with photos and descriptions.
+This is an Android app that allows users to view and create stories. Users can login or register, browse stories from other users, and upload their own stories with photos and descriptions. This is part of Dicoding Submission: Android Intermediate
 
 ## Features
 
